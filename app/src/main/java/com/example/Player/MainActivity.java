@@ -1,4 +1,4 @@
-package com.example.google_firebase;
+package com.example.Player;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -14,8 +14,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.TextView;
-
-import java.nio.channels.InterruptedByTimeoutException;
 
 public class MainActivity extends AppCompatActivity {
 

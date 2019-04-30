@@ -1,4 +1,4 @@
-package com.example.google_firebase;
+package com.example.Player;
 
 import org.junit.Test;
 

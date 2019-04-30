@@ -1,8 +1,7 @@
-package com.example.google_firebase;
+package com.example.Player;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.MenuItem;
 
 public class lista extends AppCompatActivity {
 

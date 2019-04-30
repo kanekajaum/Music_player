@@ -1,4 +1,4 @@
-package com.example.google_firebase;
+package com.example.Player;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
